@@ -1,0 +1,149 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "d0541f73d5ce1f8cb1fb306708714383",
+      "info": {
+        "title": "Polybius",
+        "artist": "Sinneslöschen",
+        "genre": "MENTICIDE",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [
+          "obj/Sinneslöschen"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 106,
+      "bpm": {
+        "init": 177.12,
+        "min": 177.12,
+        "median": 177.12,
+        "max": 177.12
+      },
+      "duration": 184.28184281842817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_i.bms"
+    },
+    {
+      "md5": "0050c28fc1d308611bbef34d304ac8bb",
+      "info": {
+        "title": "Polybius",
+        "artist": "Sinneslöschen",
+        "genre": "MENTICIDE",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [
+          "obj/Sinneslöschen"
+        ],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 197,
+      "bpm": {
+        "init": 177.12,
+        "min": 177.12,
+        "median": 177.12,
+        "max": 177.12
+      },
+      "duration": 184.28184281842817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_ii.bms"
+    },
+    {
+      "md5": "e4e4e8ffb8dc5e4a1ee580615dd4c8e7",
+      "info": {
+        "title": "Polybius",
+        "artist": "Sinneslöschen",
+        "genre": "MENTICIDE",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [
+          "obj/Sinneslöschen"
+        ],
+        "difficulty": 3,
+        "level": 7
+      },
+      "noteCount": 635,
+      "bpm": {
+        "init": 177.12,
+        "min": 177.12,
+        "median": 177.12,
+        "max": 177.12
+      },
+      "duration": 184.28184281842817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_iii.bms"
+    },
+    {
+      "md5": "d140312c47e1ea5bd4c5d902a205ef22",
+      "info": {
+        "title": "Polybius",
+        "artist": "Sinneslöschen",
+        "genre": "MENTICIDE",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [
+          "obj/Sinneslöschen"
+        ],
+        "difficulty": 4,
+        "level": 9
+      },
+      "noteCount": 864,
+      "bpm": {
+        "init": 177.12,
+        "min": 177.12,
+        "median": 177.12,
+        "max": 177.12
+      },
+      "duration": 184.28184281842817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_iv.bms"
+    },
+    {
+      "md5": "410ff9f1f2568d841ae2a19aebbf5275",
+      "info": {
+        "title": "Polybius",
+        "artist": "Sinneslöschen",
+        "genre": "MENTICIDE",
+        "subtitles": [
+          "[GAME OVER]"
+        ],
+        "subartists": [
+          "obj/Sinneslöschen"
+        ],
+        "difficulty": 5,
+        "level": 0
+      },
+      "noteCount": 2977,
+      "bpm": {
+        "init": 177.12,
+        "min": 177.12,
+        "median": 177.12,
+        "max": 177.12
+      },
+      "duration": 184.28184281842817,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_v.bms"
+    }
+  ],
+  "title": "Polybius",
+  "artist": "Sinneslöschen",
+  "genre": "MENTICIDE",
+  "bpm": 177.12,
+  "bms_url": "https://venue.bmssearch.net/bmstukuru2024/52",
+  "readme": "README.md",
+  "replaygain": "-8.43 dB",
+  "preview_offset": 75,
+  "preview_url": "bemuse-data/preview.mp3"
+}
